@@ -13,4 +13,5 @@ class JWT_Generate
             Console.WriteLine(secret);
         }
     }
+
 }
