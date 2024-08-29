@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DesaWeb.Api.Venta.props" />
+</Project>
