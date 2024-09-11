@@ -1212,24 +1212,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jhonathan Ixen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\abn_a\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonathan Ixen\\Documents\\devops\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta.csproj",
+      "projectUniqueName": "C:\\Users\\abn_a\\Documents\\Desarrollos\\APIPaqueteria\\desaweb_api.git\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta.csproj",
       "projectName": "DesaWeb.Api.Venta",
-      "projectPath": "C:\\Users\\Jhonathan Ixen\\Documents\\devops\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta.csproj",
-      "packagesPath": "C:\\Users\\Jhonathan Ixen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonathan Ixen\\Documents\\devops\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta\\obj\\",
+      "projectPath": "C:\\Users\\abn_a\\Documents\\Desarrollos\\APIPaqueteria\\desaweb_api.git\\DesaWeb.Api.Venta\\DesaWeb.Api.Venta.csproj",
+      "packagesPath": "C:\\Users\\abn_a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abn_a\\Documents\\Desarrollos\\APIPaqueteria\\desaweb_api.git\\DesaWeb.Api.Venta\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jhonathan Ixen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\abn_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1237,6 +1232,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1249,6 +1245,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1283,7 +1284,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
