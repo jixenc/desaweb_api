@@ -1,9 +1,11 @@
 ﻿using DesaWeb.Api.Venta.Models;
 using Microsoft.AspNetCore.Mvc;
 using DesaWeb.Api.Venta.Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DesaWeb.Api.Venta.Controllers.APIS
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class CustomersController : ControllerBase
