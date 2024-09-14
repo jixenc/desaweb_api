@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesaWeb.Api.Venta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f672ebca33b7f462e552326beda51bb3b37630c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edde65652844b06cd89822017256898ec8e82eb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesaWeb.Api.Venta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesaWeb.Api.Venta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
