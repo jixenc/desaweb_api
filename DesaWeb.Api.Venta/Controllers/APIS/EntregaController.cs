@@ -18,7 +18,6 @@ namespace DesaWeb.Api.Venta.Controllers
             _context = context;
         }
 
-
         [HttpPost("crear-entrega")]
         public async Task<IActionResult> CrearOActualizarEntrega([FromBody] Entrega entrega)
         {

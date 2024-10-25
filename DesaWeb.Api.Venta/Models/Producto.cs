@@ -13,3 +13,4 @@
         public string Estado { get; set; } // 'V' para activo, 'I' para inactivo
     }
 }
+

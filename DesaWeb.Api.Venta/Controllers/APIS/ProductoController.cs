@@ -26,7 +26,6 @@ namespace DesaWeb.Api.Venta.Controllers
 
             try
             {
-
                 using var connection = _context.GetConnection();
                 await connection.OpenAsync();
 
