@@ -38,3 +38,44 @@ C:\Users\Jhonathan Ixen\Documents\devops\DesaWeb.Api.Venta\DesaWeb.Api.Venta\obj
 C:\Users\Jhonathan Ixen\Documents\devops\DesaWeb.Api.Venta\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.pdb
 C:\Users\Jhonathan Ixen\Documents\devops\DesaWeb.Api.Venta\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.genruntimeconfig.cache
 C:\Users\Jhonathan Ixen\Documents\devops\DesaWeb.Api.Venta\DesaWeb.Api.Venta\obj\Debug\net6.0\ref\DesaWeb.Api.Venta.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\appsettings.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\DesaWeb.Api.Venta.exe
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\DesaWeb.Api.Venta.deps.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\DesaWeb.Api.Venta.runtimeconfig.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\DesaWeb.Api.Venta.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\DesaWeb.Api.Venta.pdb
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.csproj.AssemblyReference.cache
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.AssemblyInfoInputs.cache
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.AssemblyInfo.cs
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.csproj.CoreCompileInputs.cache
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.sourcelink.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets\msbuild.DesaWeb.Api.Venta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets\msbuild.build.DesaWeb.Api.Venta.props
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DesaWeb.Api.Venta.props
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DesaWeb.Api.Venta.props
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\scopedcss\bundle\DesaWeb.Api.Venta.styles.css
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb..330F0065.Up2Date
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\refint\DesaWeb.Api.Venta.dll
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.pdb
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\DesaWeb.Api.Venta.genruntimeconfig.cache
+C:\Users\abn_a\Documents\Desarrollos\APIPaqueteria\desaweb_api.git\DesaWeb.Api.Venta\obj\Debug\net6.0\ref\DesaWeb.Api.Venta.dll

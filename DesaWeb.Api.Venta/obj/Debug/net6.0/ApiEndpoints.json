@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "DesaWeb.Api.Venta.Controllers.APIS.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLogin",
+        "Type": "DesaWeb.Api.Venta.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesaWeb.Api.Venta.Controllers.APIS.CustomersController",
+    "Method": "CustomerConsulxCode",
+    "RelativePath": "Customers/CustConsult/CustCode/{_pcodeC}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_pcodeC",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesaWeb.Api.Venta.Controllers.APIS.CustomersController",
+    "Method": "CustomerDown",
+    "RelativePath": "Customers/CustDown/{_pcodeD}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_pcodeD",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesaWeb.Api.Venta.Controllers.APIS.CustomersController",
+    "Method": "CreateCustomer",
+    "RelativePath": "Customers/CustomerCreate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cusC",
+        "Type": "DesaWeb.Api.Venta.Models.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesaWeb.Api.Venta.Controllers.APIS.CustomersController",
+    "Method": "CustomerUpdate",
+    "RelativePath": "Customers/CustUpdate/{_pcodeU}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_pcodeU",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "cusU",
+        "Type": "DesaWeb.Api.Venta.Models.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesaWeb.Api.Venta.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DesaWeb.Api.Venta.WeatherForecast, DesaWeb.Api.Venta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
